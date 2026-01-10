@@ -61,9 +61,13 @@ Fare ile tıklayarak dosya seçebilir ve işlem yapabilirsiniz.
 * **Dosya Seçimi:** İşlenecek resmi bilgisayarınızdan seçin.
 * **İşlem Menüsü:** Yapmak istediğiniz işlemi listeden seçip "Başlat" butonuna basın.
 
-![GUI Görseli](ekran_goruntuleri/gui_ornek1.png)
-![GUI Görseli](ekran_goruntuleri/gui_ornek2.png)
-![GUI Görseli](ekran_goruntuleri/gui_ornek3.png)
+<div align="center">
+  <img src="ekran_goruntuleri/gui_ornek1.png" alt="GUI Görseli 1" width="600">
+  <br><br>
+  <img src="ekran_goruntuleri/gui_ornek2.png" alt="GUI Görseli 2" width="600">
+  <br><br>
+  <img src="ekran_goruntuleri/gui_ornek3.png" alt="GUI Görseli 3" width="600">
+</div>
 
 ### 3. Terminal Arayüz (TUI) Modu
 Sadece klavye (Yön tuşları ve Enter) kullanarak hızlıca işlem yapabilirsiniz.
