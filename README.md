@@ -64,13 +64,17 @@ Fare ile tıklayarak dosya seçebilir ve işlem yapabilirsiniz.
 <div align="center">
   <img src="ekran_goruntuleri/gui_ornek1.png" alt="GUI Görseli 1" width="600">
   <br><br>
-  <img src="ekran_goruntuleri/gui_ornek2.png" alt="GUI Görseli 2" width="600">
+  <img src="ekran_goruntuleri/gui_ornek2.png" alt="GUI Görseli 2" width="400">
   <br><br>
-  <img src="ekran_goruntuleri/gui_ornek3.png" alt="GUI Görseli 3" width="600">
+  <img src="ekran_goruntuleri/gui_ornek3.png" alt="GUI Görseli 3" width="400">
 </div>
 
 ### 3. Terminal Arayüz (TUI) Modu
 Sadece klavye (Yön tuşları ve Enter) kullanarak hızlıca işlem yapabilirsiniz.
 
-![TUI Görseli](ekran_goruntuleri/tui_ornek1.png)
-![TUI Görseli](ekran_goruntuleri/tui_ornek2.png)
+<div align="center">
+  <img src="ekran_goruntuleri/tui_ornek1.png" alt="GUI Görseli 1" width="600">
+  <br><br>
+  <img src="ekran_goruntuleri/tui_ornek2.png" alt="GUI Görseli 2" width="400">
+  <br><br>
+</div>
