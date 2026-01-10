@@ -48,6 +48,7 @@ Programı çalıştırmak için terminale şu komutu yazın:
 
 ```bash
 ./resim_atolyesi.sh
+```
 
 ### 1. Arayüz Seçimi
 Program başladığında hangi arayüzü kullanmak istediğinizi sorar:
