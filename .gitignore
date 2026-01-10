@@ -1,0 +1,20 @@
+# --- Gereksiz Dosyalar ---
+eski_kodlar/
+test_resimleri/
+
+# --- Çıktı Dosyalarını Gizle ---
+# Scriptin ürettiği sonuçları (küçük, siyah beyaz vs.) yükleme
+kucuk_*
+sb_*
+*.png
+
+# --- Resim Ayarı ---
+# Ana dizindeki rastgele resimleri yükleme...
+*.jpg
+*.jpeg
+
+# ...AMA 'ornekler' klasöründeki resimlere izin ver!
+!ornek_resimler/
+!ornek_resimler/*.jpg
+!ornek_resimler/*.jpeg
+
