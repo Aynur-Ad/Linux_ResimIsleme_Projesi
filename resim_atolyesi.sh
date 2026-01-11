@@ -2,8 +2,8 @@
 
 # =================================================================
 # Proje: Linux Resim İşleme Atölyesi (ImageMagick Frontend)
-# Ders: Linux Scriptleri ve Araçları
-# Yazan: [Senin Adın]
+# Ders: Linux Araçları ve Kabuk Programlama
+# Yazan: Aynur Adıbelli
 # Tarih: 2026
 # =================================================================
 
