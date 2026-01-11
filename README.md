@@ -60,7 +60,7 @@ Programı çalıştırmak için terminale şu komutu yazın:
 Program başladığında hangi arayüzü kullanmak istediğinizi sorar:
 
 <div align="center">
-   <img src="ekran_goruntuleri/anaMenu.png" alt="Ana Menu Gorseli" width="500">
+   <img src="ekran_goruntuleri/anaMenu.png" alt="Ana Menu Gorseli" width="550">
    <br><br>
 </div>
 
@@ -73,9 +73,9 @@ Fare ile tıklayarak dosya seçebilir ve işlem yapabilirsiniz.
 <div align="center">
   <img src="ekran_goruntuleri/gui_ornek1.png" alt="GUI Görseli 1" width="550">
   <br><br>
-  <img src="ekran_goruntuleri/gui_ornek2.png" alt="GUI Görseli 2" width="400">
+  <img src="ekran_goruntuleri/gui_ornek2.png" alt="GUI Görseli 2" width="400" height="400">
   <br><br>
-  <img src="ekran_goruntuleri/gui_ornek3.png" alt="GUI Görseli 3" width="400">
+  <img src="ekran_goruntuleri/gui_ornek3.png" alt="GUI Görseli 3" width="400" height="400">
 </div>
 
 ### 3. Terminal Arayüz (TUI) Modu
@@ -84,7 +84,7 @@ Sadece klavye (Yön tuşları ve Enter) kullanarak hızlıca işlem yapabilirsin
 <div align="center">
   <img src="ekran_goruntuleri/tui_ornek1.png" alt="GUI Görseli 1" width="550">
   <br><br>
-  <img src="ekran_goruntuleri/tui_ornek2.png" alt="GUI Görseli 2" width="400">
+  <img src="ekran_goruntuleri/tui_ornek2.png" alt="GUI Görseli 2" width="400" height="400">
   <br><br>
 </div>
 
