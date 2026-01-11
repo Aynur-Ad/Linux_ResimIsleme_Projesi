@@ -4,6 +4,12 @@ Bu proje, **Linux Araçları ve Kabuk Programlama** dersi dönem projesi kapsam�
 
 Kullanıcılar, karmaşık terminal komutları yazmak zorunda kalmadan, hem **Grafik Arayüz (GUI)** hem de **Terminal Arayüzü (TUI)** üzerinden resimlerini kolayca düzenleyebilirler.
 
+## 🎥 Proje Tanıtım Videosu
+
+Projenin kurulum adımlarını, GUI ve TUI modlarının çalışma testlerini aşağıdaki videodan izleyebilirsiniz:
+
+[▶️ Proje Tanıtım Videosunu İzlemek İçin Tıklayın](https://www.youtube.com/watch?v=2cYqdvPPhPA)
+
 ## 🚀 Özellikler
 
 Proje aşağıdaki 5 temel resim işleme fonksiyonunu içerir:
