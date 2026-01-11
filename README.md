@@ -59,7 +59,10 @@ Programı çalıştırmak için terminale şu komutu yazın:
 ### 1. Arayüz Seçimi
 Program başladığında hangi arayüzü kullanmak istediğinizi sorar:
 
-![Ana Menü Görseli](ekran_goruntuleri/anaMenu.png)
+<div align="center">
+   <img src="ekran_goruntuleri/anaMenu.png" alt="Ana Menu Gorseli" width="500">
+   <br><br>
+</div>
 
 ### 2. Grafik Arayüz (GUI) Modu
 Fare ile tıklayarak dosya seçebilir ve işlem yapabilirsiniz.
@@ -68,7 +71,7 @@ Fare ile tıklayarak dosya seçebilir ve işlem yapabilirsiniz.
 * **İşlem Menüsü:** Yapmak istediğiniz işlemi listeden seçip "Başlat" butonuna basın.
 
 <div align="center">
-  <img src="ekran_goruntuleri/gui_ornek1.png" alt="GUI Görseli 1" width="500">
+  <img src="ekran_goruntuleri/gui_ornek1.png" alt="GUI Görseli 1" width="550">
   <br><br>
   <img src="ekran_goruntuleri/gui_ornek2.png" alt="GUI Görseli 2" width="400">
   <br><br>
@@ -79,8 +82,15 @@ Fare ile tıklayarak dosya seçebilir ve işlem yapabilirsiniz.
 Sadece klavye (Yön tuşları ve Enter) kullanarak hızlıca işlem yapabilirsiniz.
 
 <div align="center">
-  <img src="ekran_goruntuleri/tui_ornek1.png" alt="GUI Görseli 1" width="500">
+  <img src="ekran_goruntuleri/tui_ornek1.png" alt="GUI Görseli 1" width="550">
   <br><br>
   <img src="ekran_goruntuleri/tui_ornek2.png" alt="GUI Görseli 2" width="400">
   <br><br>
 </div>
+
+⚖️ Kaynakça ve Etik Bildirim
+Proje tanıtımında ve test aşamasında kullanılan örnek görseller, telif hakkı serbest (Royalty Free) kaynaklardan temin edilmiştir:
+
+  Kedi Görseli: Pixabay - Kedi Yavrusu
+
+  Manzara Görseli: iStock/Pixabay - Karagöl
