@@ -32,7 +32,7 @@ Projenin çalışması için PARDUS veya Ubuntu/Debian tabanlı bir sistemde aş
 
 1.  **Projeyi Klonlayın:**
     ```bash
-    git clone [https://github.com/Aynur-Ad/Linux_ResimIsleme_Projesi.git](https://github.com/Aynur-Ad/Linux_ResimIsleme_Projesi.git)
+    git clone https://github.com/Aynur-Ad/Linux_ResimIsleme_Projesi.git
     cd Linux_ResimIsleme_Projesi
     ```
 
@@ -88,9 +88,9 @@ Sadece klavye (Yön tuşları ve Enter) kullanarak hızlıca işlem yapabilirsin
   <br><br>
 </div>
 
-⚖️ Kaynakça ve Etik Bildirim
+## ⚖️ Kaynakça ve Etik Bildirim
+
 Proje tanıtımında ve test aşamasında kullanılan örnek görseller, telif hakkı serbest (Royalty Free) kaynaklardan temin edilmiştir:
 
-  Kedi Görseli: Pixabay - Kedi Yavrusu
-
-  Manzara Görseli: iStock/Pixabay - Karagöl
+* **Kedi Görseli:** [Pixabay - Kedi Yavrusu](https://pixabay.com/tr/photos/kedi-gen%C3%A7-hayvan-kedi-yavrusu-2083492/)
+* **Manzara Görseli:** [iStock/Pixabay - Karagöl](https://www.istockphoto.com/photo/karag%C3%B6l-gm480968800-69068195?utm_source=pixabay&utm_medium=affiliate&utm_campaign=sponsored_image&utm_content=srp_topbanner_media&utm_term=manzara)
