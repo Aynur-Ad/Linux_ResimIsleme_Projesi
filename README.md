@@ -20,14 +20,20 @@ Proje tamamen **Bash Shell Script** diliyle yazılmıştır ve şu araçları ku
 * **YAD (Yet Another Dialog):** Modern pencereli grafik arayüz (GUI) için.
 * **Whiptail:** Terminal içi menü tabanlı arayüz (TUI) için.
 
-## ⚙️ Kurulum ve Gereksinimler
+## 🐧 Sistem Gereksinimleri ve Uyumluluk
+
+Bu proje, **Ubuntu/WSL** ortamında geliştirilmiş olup, **Pardus (19/21/23)** ve diğer **Debian** tabanlı dağıtımlarla (Kali, Mint, Debian) **%100 uyumludur**.
+
+Kod yapısı, Pardus depolarında standart olarak bulunan paketleri (`bash`, `apt`, `imagemagick`) kullandığı için ek bir konfigürasyon gerektirmeden sorunsuz çalışır.
+
+## ⚙️ Kurulum
 
 Projenin çalışması için PARDUS veya Ubuntu/Debian tabanlı bir sistemde aşağıdaki paketlerin yüklü olması gerekir.
 
 1.  **Projeyi Klonlayın:**
     ```bash
-    git clone [https://github.com/KULLANICI_ADINIZ/REPO_ADINIZ.git](https://github.com/KULLANICI_ADINIZ/REPO_ADINIZ.git)
-    cd REPO_ADINIZ
+    git clone [https://github.com/Aynur-Ad/Linux_ResimIsleme_Projesi.git](https://github.com/Aynur-Ad/Linux_ResimIsleme_Projesi.git)
+    cd Linux_ResimIsleme_Projesi
     ```
 
 2.  **Gerekli Paketleri Yükleyin:**
@@ -62,7 +68,7 @@ Fare ile tıklayarak dosya seçebilir ve işlem yapabilirsiniz.
 * **İşlem Menüsü:** Yapmak istediğiniz işlemi listeden seçip "Başlat" butonuna basın.
 
 <div align="center">
-  <img src="ekran_goruntuleri/gui_ornek1.png" alt="GUI Görseli 1" width="600">
+  <img src="ekran_goruntuleri/gui_ornek1.png" alt="GUI Görseli 1" width="500">
   <br><br>
   <img src="ekran_goruntuleri/gui_ornek2.png" alt="GUI Görseli 2" width="400">
   <br><br>
@@ -73,7 +79,7 @@ Fare ile tıklayarak dosya seçebilir ve işlem yapabilirsiniz.
 Sadece klavye (Yön tuşları ve Enter) kullanarak hızlıca işlem yapabilirsiniz.
 
 <div align="center">
-  <img src="ekran_goruntuleri/tui_ornek1.png" alt="GUI Görseli 1" width="600">
+  <img src="ekran_goruntuleri/tui_ornek1.png" alt="GUI Görseli 1" width="500">
   <br><br>
   <img src="ekran_goruntuleri/tui_ornek2.png" alt="GUI Görseli 2" width="400">
   <br><br>
