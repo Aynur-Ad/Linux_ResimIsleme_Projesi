@@ -14,6 +14,7 @@ cevir_*
 # Ana dizindeki rastgele resimleri yükleme...
 *.jpg
 *.jpeg
+*.png
 
 # ...AMA 'ornek_resimler' klasöründeki resimlere izin ver!
 !ornek_resimler/
